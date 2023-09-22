@@ -4,7 +4,9 @@
 }
 p{
 	font-size: 20px;
+	color: #f00;
 }
 span{
-	text-decoration: none;
+	color: black;
+	font-size: 18px;
 }
